@@ -14,5 +14,4 @@ Develop a Spring Boot Rest API for the following scenarios
 **2. Give me the price of the flight which leaves afternoon.**
 
 **3. Give me the price of the flight which goes to JFK.**
-
-    Note: **There is no direct flight to JFK**
+     Note: **There is no direct flight to JFK**
